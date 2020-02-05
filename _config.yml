@@ -21,10 +21,10 @@ description: Sharing is carig
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Blogs:
+    - Dzone: "https://dzone.com/users/815217/simplymanas.html"
+    - Mindmaps: "https://www.linkedin.com/feed/hashtag/mindmapmondaysbymanas/"
+  Author's home: "http://thoughts2share.xyz"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Manas Ranjan Dash
+  name: (C)Manas Ranjan Dash
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
